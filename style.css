@@ -13,8 +13,31 @@
 .cabeçalho-imagem{
     width: 35%;
 }
+
+
+
 .cabeçalho-item{
     display: inline-block;
     margin: 0 17px;
 }
    
+.escola-imagem{
+    width: 25%;
+}
+
+.escola{
+    background-image: linear-gradient(#0A1A44,#00C4CC);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 45%;
+}
+
+.escola-titulo{
+    padding: 10px 0;
+    color: #DFFAFF;
+}
